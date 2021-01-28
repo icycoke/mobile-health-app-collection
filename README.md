@@ -12,3 +12,6 @@ A self-management application designed for patients with heart disease. Medicati
 
 ## [Image Classifier](https://github.com/icycoke/image-classifier)
 Image Classifier is a application used to classify the object in a picture.The user can choose take a picture by camera or import pictures from the storage to be classified.
+
+## [Wifi Webviewer](https://github.com/icycoke/wifi-webviewer)
+Wifi Webviewer is an application used to browse webpages and share the link of page the user is browsing to Facebook page.
