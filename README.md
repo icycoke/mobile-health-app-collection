@@ -9,3 +9,6 @@ Musical Pedometer can display the user's exercise track in real-time while the u
 
 ## [Medication Reminder](https://github.com/icycoke/medication-reminder)
 A self-management application designed for patients with heart disease. Medication Reminder can help the user easily add a new event to Google Calendar to prevent missing it. Furthermore, it can record the user's home location and use geo-fence to push notification when the user is leaving home to remind him/her to keep the necessary medicine.
+
+## [Image Classifier](https://github.com/icycoke/image-classifier)
+Image Classifier is a application used to classify the object in a picture.The user can choose take a picture by camera or import pictures from the storage to be classified.
